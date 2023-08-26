@@ -46,8 +46,8 @@ If you encounter any issues or have questions about using the smart contract, yo
 
 ## Authors
 
-- Moksh Verma 
-- 22BCT10059@cuchd.in
+- Harsh Saini 
+- 22BCT10007@cuchd.in
 
 ## License
 
